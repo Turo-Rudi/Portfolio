@@ -20,12 +20,12 @@
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
 
-<a href="https://github.com/Turo-Rudi" target="_blank"><img align="center" src="assets/github.svg" alt="GitHub" height="30" width="40"></a>
-<a href="https://twitter.com/jozsa_andrea" target="_blank"><img align="center" src="assets/twitter.svg" alt="Twitter" height="30" width="40"></a>
-<a href="https://www.linkedin.com/in/andrea-j%C3%B3zsa-0542a23b/" target="_blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin" height="30" width="40"></a>
-<a href="https://medium.com/@jozsa.andrea" target="_blank"><img align="center" src="assets/medium.svg" alt="Medium" height="30" width="40"></a>
-<a href="https://codepen.io/TuroRudi" target="_blank"><img align="center" src="assets/codepen.svg" alt="Codepen" height="30" width="40"></a>
-<a href="https://app.slack.com/client/T03DJ0G01/C03DJ0G0F/user_profile/U01RTSM38BY" target="_blank"><img align="center" src="assets/slack.svg" alt="Slack" height="30" width="40"></a>
+<a href="https://github.com/Turo-Rudi" target="_blank"><img align="center" src="assets/github.svg" alt="GitHub" height="30" width="30"></a>
+<a href="https://twitter.com/jozsa_andrea" target="_blank"><img align="center" src="assets/twitter.svg" alt="Twitter" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/andrea-j%C3%B3zsa-0542a23b/" target="_blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin" height="30" width="30"></a>
+<a href="https://medium.com/@jozsa.andrea" target="_blank"><img align="center" src="assets/medium.svg" alt="Medium" height="30" width="30"></a>
+<a href="https://codepen.io/TuroRudi" target="_blank"><img align="center" src="assets/codepen.svg" alt="Codepen" height="30" width="30"></a>
+<a href="https://app.slack.com/client/T03DJ0G01/C03DJ0G0F/user_profile/U01RTSM38BY" target="_blank"><img align="center" src="assets/slack.svg" alt="Slack" height="30" width="30"></a>
 
 </p>
 
