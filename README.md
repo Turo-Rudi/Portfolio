@@ -1,6 +1,6 @@
 # Portfolio
  
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Andrea</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Andrea Józsa</h1>
 <h3 align="center">An enthusiastic webdeveloper from Hungary, currently living in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turo-rudi&label=Profile%20views&color=0e75b6&style=flat" alt="turo-rudi" /> </p>
@@ -19,10 +19,11 @@
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@turorudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@turorudi" height="30" width="40" /></a>
+<a href="https://codepen.io/TuroRudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@turorudi" height="30" width="40" /></a>
 <a href="https://twitter.com/jozsa_andrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jozsa_andrea" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea józsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea józsa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrea-j%C3%B3zsa-0542a23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea józsa" height="30" width="40" /></a>
 <a href="https://medium.com/@jozsa.andrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jozsa.andrea" height="30" width="40" /></a>
+<a href="https://app.slack.com/client/T03DJ0G01/C03DJ0G0F/user_profile/U01RTSM38BY" target="blank"><img align="center" src="assets/slack.svg" alt="@jozsa.andrea" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
