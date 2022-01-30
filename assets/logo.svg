@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="625.17mm" height="151.34mm" version="1.1" viewBox="0 0 625.17 151.34" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(288.92 22.754)">
+  <text transform="scale(1.0149 .98534)" x="105.92255" y="49.01302" font-family="'Poor Richard'" font-size="86.3px" letter-spacing="2.607px" stroke-width=".2607" text-anchor="middle" style="line-height:0.8" xml:space="preserve"><tspan x="105.92255" y="49.01302" text-align="center">Andrea Józsa</tspan><tspan x="107.22606" y="118.0527" font-family="'Poor Richard'" font-size="51.539px" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Passion for Code</tspan></text>
+  <path d="m-137.58 52.917c0 69.56-6.1113 75.671-75.671 75.671-69.56 0-75.671-6.1113-75.671-75.671 0-69.56 6.1113-75.671 75.671-75.671 69.56 0 75.671 6.1113 75.671 75.671z" stroke-width=".29104"/>
+  <text transform="scale(.8033 1.2449)" x="-369.35349" y="79.150314" font-family="'Poor Richard'" font-size="109.03px" stroke-width=".32937" style="line-height:1.25" xml:space="preserve"><tspan x="-369.35349" y="79.150314" fill="#ffffff" font-family="'Poor Richard'" font-size="118.57px" stroke-width=".32937" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">&lt;/&gt;</tspan></text>
+ </g>
+</svg>

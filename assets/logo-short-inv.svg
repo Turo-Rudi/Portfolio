@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="151.34mm" height="151.34mm" version="1.1" viewBox="0 0 151.34 151.34" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(111.12 2.1167)">
+  <path d="m-35.454 149.23c-69.56 0-75.671-6.1113-75.671-75.671 0-69.56 6.1113-75.671 75.671-75.671 69.56-1.9e-6 75.671 6.1113 75.671 75.671 2e-6 69.56-6.1113 75.671-75.671 75.671z" fill="#fff" stroke-width=".25224"/>
+  <text transform="scale(.80034 1.2495)" x="-147.69203" y="97.588188" font-family="'Poor Richard'" font-size="108.63px" stroke-width=".32816" style="line-height:1.25" xml:space="preserve"><tspan x="-147.69203" y="97.588188" fill="#000000" font-family="'Poor Richard'" font-size="118.14px" stroke-width=".32816" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">&lt;/&gt;</tspan></text>
+ </g>
+</svg>

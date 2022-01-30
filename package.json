@@ -1,0 +1,16 @@
+{
+  "name": "portfolio_final",
+  "version": "1.0.0",
+  "description": "Portfolio website of Andrea Józsa",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "typed.js": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
