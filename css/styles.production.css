@@ -101,10 +101,6 @@ body {
           align-items: center;
 }
 
-.bio {
-  line-height: 1.3;
-}
-
 .pulse {
   -webkit-animation-name: pulse;
           animation-name: pulse;
@@ -494,6 +490,10 @@ body {
   .tools,
   .contact{
     padding: 10px 0 10px 0;
+  }
+  
+  .bio {
+    line-height: 1.3;
   }
 
   #about {
