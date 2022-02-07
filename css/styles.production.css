@@ -259,7 +259,8 @@ body {
           transform-style: preserve-3d;
 }
 
-.front, .back {
+.front, 
+.back {
   position: absolute;
   width: 95px;
   height: 50px;
@@ -507,10 +508,11 @@ body {
     grid-template-columns: 2fr;
   }
 
-  .nav-masthead .nav-link {
+  .front, 
+  .back {
     color: black !important;
   }
-  
+
   .nav-item {
     margin-bottom: 10px;
   }
