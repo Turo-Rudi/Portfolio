@@ -412,6 +412,10 @@ body {
     grid-template-columns: 2fr;
   }
 
+  .nav-masthead .nav-link {
+    color: black !important;
+  }
+  
   .nav-item {
     margin-bottom: 10px;
   }
@@ -506,3 +510,4 @@ body {
     margin-top: 50px;
   }
 }
+
